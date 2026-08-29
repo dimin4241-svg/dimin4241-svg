@@ -1,6 +1,20 @@
-# Smart Contract & Web3 Security Research
+# Web3 Engineering & Security Research
 
-I am an independent security researcher focused on smart contracts, blockchain infrastructure, wallets, and protocol integrations.
+I am a full-stack Web3 engineer and independent security researcher working across TypeScript, React, Node.js, Rust, Soroban, blockchain infrastructure, wallets, and protocol integrations.
+
+I ship narrow, reviewable changes with reproducible tests and clear documentation. Recent work spans agent tooling, CI, smart-contract behavior, data quality, and product QA.
+
+## Selected engineering work
+
+- [Mermail RFP Evaluator](https://github.com/Nudgen-Marketing/mermail-skills/pull/126) — a validated Codex-compatible agent skill for mailbox triage, requirement extraction, scoring, and draft-only responses.
+- [Chain-Love Algorand data contribution](https://github.com/Chain-Love/chain-love/pull/3272) — merged open-source data work reviewed and accepted upstream.
+- [Trading terminal QA sample](https://github.com/dimin4241-svg/qa-trading-terminal-sample) — reproducible findings covering market-data consistency, input validation, and accessibility.
+
+## Engineering stack
+
+- TypeScript, JavaScript, Node.js, React, Next.js, API integrations, and CI/CD
+- Rust and Soroban smart contracts, deterministic tests, and contract-state invariants
+- Manual QA, regression testing, accessibility, and evidence-driven debugging
 
 My work is evidence-driven: I aim to turn a security hypothesis into a minimal, reproducible proof of concept with clear impact, negative controls, and a practical remediation path.
 
@@ -29,4 +43,3 @@ Active research and disclosure-stage artifacts may remain private until publicat
 ## Contact
 
 For non-sensitive questions or collaboration, open an issue in this repository. For a potential vulnerability, request a private communication channel first and do not post technical details publicly.
-
