@@ -6,6 +6,7 @@ I ship narrow, reviewable changes with reproducible tests and clear documentatio
 
 ## Selected engineering work
 
+- [sh1pt CLI JSON output](https://github.com/profullstack/sh1pt/pull/989) — merged TypeScript contribution adding safe machine-readable secret listings, focused local/cloud regression tests, and verification across 280 CLI tests, typecheck, and build.
 - [Mermail RFP Evaluator](https://github.com/Nudgen-Marketing/mermail-skills/pull/126) — a validated Codex-compatible agent skill for mailbox triage, requirement extraction, scoring, and draft-only responses.
 - [Chain-Love Algorand data contribution](https://github.com/Chain-Love/chain-love/pull/3272) — merged open-source data work reviewed and accepted upstream.
 - [Trading terminal QA sample](https://github.com/dimin4241-svg/qa-trading-terminal-sample) — reproducible findings covering market-data consistency, input validation, and accessibility.
